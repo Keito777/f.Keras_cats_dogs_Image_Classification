@@ -18,7 +18,10 @@ t.Kerasを用いて猫と犬を分類するモデルを作成する。
 ## Requirements
 - [Python](https://www.python.org/) 3.8
 - [TensorFlow](https://www.tensorflow.org/api_docs/python/tf?hl=ja)2.8.0
+- [keras](https://keras.io/ja/)2.8.0
 - [Numpy](http://www.numpy.org/) 1.19.2
+- [sklearn](https://scikit-learn.org/stable/)1.0.2
+- [matplotlib]()3.2.2
 
 ## Author
 
