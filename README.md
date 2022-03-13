@@ -1,5 +1,5 @@
 # tf.Keras_cats_dogs_Image_Classification
-t.Kerasを用いて猫と犬を分類するモデルを作成する。
+t.Kerasを用いて猫と犬を識別する画像分類モデルを作成する。
 
 事前学習済みモデルVGG16を使用して学習を行う。
 
